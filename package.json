@@ -1,0 +1,17 @@
+{
+  "name": "conver-text-uppercase",
+  "version": "1.0.0",
+  "description": "Convert all the text in the file to UPPER CASE.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jszip": "^3.10.1",
+    "pptxgenjs": "^3.12.0",
+    "xml2js": "^0.6.2"
+  }
+}
